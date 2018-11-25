@@ -1,2 +1,8 @@
 /DllInjector/.vs
 /build
+/dllfps/Debug
+/dllfps/x64
+/dllfps/dllfps/*.user
+/dllfps/dllfps/x64
+/dllfps/dllfps/Debug
+/dllfps/dllfps/.vs
