@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fraps", "fraps\fraps.vcxproj", "{F92507A0-F010-4D96-A647-2622D3CCA2F4}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dllfps", "dllfps\dllfps.vcxproj", "{F92507A0-F010-4D96-A647-2622D3CCA2F4}"
 EndProject
 Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Wow", "..\..\Games\World of Warcraft\Wow.exe", "{C98B570A-C291-43B4-AC61-6233D608A566}"
 	ProjectSection(DebuggerProjectSystem) = preProject
